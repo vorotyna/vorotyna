@@ -9,8 +9,6 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=vorotyna&style=flat-square&color=blue" alt=""/>
 </div>
-  
----
 
 ## 👩🏻‍💻 About Me :
 – 📍 I am currently working on building a portfolio website for myself
@@ -22,3 +20,7 @@
 – 🎓 I am a Kinesiology graduate, turned web developer
 
 – 🗣 Fun fact: I speak three languages fluently and am an intermediate in two others (an unofficial polyglot?)
+
+## 👉🏼 Recent Projects :
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vorotyna&repo=sportami&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vorotyna&repo=granny-on-the-go&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
