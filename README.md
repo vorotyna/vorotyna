@@ -22,5 +22,9 @@
 – 🗣 Fun fact: I speak three languages fluently and am an intermediate in two others (an unofficial polyglot?)
 
 ## 👉🏼 Recent Projects :
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vorotyna&repo=sportami&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vorotyna&repo=granny-on-the-go&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/vorotyna/sportami">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vorotyna&repo=sportami&title_color=ffffff&text_color=c9cacc&icon_color=FFD966&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/vorotyna/granny-on-the-go">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vorotyna&repo=granny-on-the-go&title_color=ffffff&text_color=c9cacc&icon_color=FFD966&bg_color=1d1f21" />
+</a>
