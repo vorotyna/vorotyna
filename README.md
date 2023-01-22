@@ -10,13 +10,19 @@
   <img src="https://komarev.com/ghpvc/?username=vorotyna&style=flat-square&color=blue" alt=""/>
 </div>
 
+<h1 align=center border-bottom: none> 
+  Hi, I'm Alisa 👋🏼  
+</h1>
+  
 ---
 
 ## 👩🏻‍💻 About Me :
 – 📍 I am currently working on building a portfolio website for myself
 
-– 🎨 I enjoy the visual and creative aspects of frontend and design work
+– 🎨 I really enjoy the creative and visual aspects of frontend and design work
 
 – 🚴🏼‍♀️ My favourite pastime is weightlifting or cycling
 
-– ✨ Fun fact: I am a Kinesiology graduate, turned web developer
+– 🎓 I am a Kinesiology graduate, turned web developer
+
+– 🗣 Fun fact: I speak three languages fluently and am an intermediate in two others (an unofficial polyglot?)
