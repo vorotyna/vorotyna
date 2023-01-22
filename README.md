@@ -9,10 +9,6 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=vorotyna&style=flat-square&color=blue" alt=""/>
 </div>
-
-<h1> 
-  Hi, I'm Alisa 👋🏼  
-</h1>
   
 ---
 
