@@ -19,7 +19,7 @@
 
 – 🎓 I am a Kinesiology graduate, turned web developer
 
-– 🗣 Fun fact: I speak three languages fluently and am an intermediate in two others (an unofficial polyglot?)
+– 🗣 Fun fact: I speak three languages fluently and am learning two others (almost a polyglot?)
 
 ## 👉🏼 Recent Projects :
 <a href="https://github.com/vorotyna/sportami">
