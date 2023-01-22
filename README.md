@@ -10,6 +10,9 @@
   <img src="https://komarev.com/ghpvc/?username=vorotyna&style=flat-square&color=blue" alt=""/>
 </div>
 
+<h1 align=center> Hi, I'm Alisa 👋  </h1>
+
+
 ## 👩🏻‍💻 About Me :
 – 📍 I am currently working on building a portfolio website for myself
 
