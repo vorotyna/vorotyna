@@ -14,7 +14,7 @@
 
 
 ## 👩🏻‍💻 About Me :
-– 📍 I am currently working on building a portfolio website for myself
+– 📍 I am currently working on building a portfolio website as well as a web application to manage library book due dates
 
 – 🎨 I really enjoy the creative and visual aspects of frontend and design work
 
