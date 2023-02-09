@@ -29,7 +29,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vorotyna&repo=sportami&title_color=ffffff&text_color=c9cacc&icon_color=FFD966&bg_color=1d1f20" />
 </a>
 <a href="https://github.com/vorotyna/granny-on-the-go">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vorotyna&repo=granny-on-the-go&title_color=ffffff&text_color=c9cacc&icon_color=FFD966&bg_color=1d1f20" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vorotyna&repo=granny-on-the-go&title_color=ffffff&text_color=c9cacc&icon_color=FFD966&bg_color=1d1f21" />
 </a>
 
 ## 🛠 Languages and Tools :
