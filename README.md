@@ -45,7 +45,7 @@
 <img align="left" alt="MaterialUI" width="30px" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Figma" width="30px" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" />
-<img align="left" alt="jQuery" width="30px" src="https://i.dlpng.com/static/png/7044160_preview.png" />
+<img align="left" alt="jQuery" width="30px" src="[https://i.dlpng.com/static/png/7044160_preview.png](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JQuery.svg)" />
 <img align="left" alt="EJS" width="30px" src="https://pbs.twimg.com/profile_images/833789473376854018/skScegH6_400x400.jpg" />
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Express.js" width="30px" 
