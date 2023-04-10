@@ -14,7 +14,7 @@
 
 
 ## 👩🏻‍💻 About Me :
-– 📍 I am currently working on building a portfolio website as well as a web application to manage borrowed library books
+– 📍 I am currently working on building a portfolio website and am continuing to develop my skills through Frontend Masters courses
 
 – 🎨 I really enjoy the creative and visual aspects of frontend and design work
 
@@ -25,6 +25,9 @@
 – 🗣 Fun fact: I speak three languages fluently and am learning two others (almost a polyglot?)
 
 ## 👉🏼 Recent Projects :
+<a href="https://github.com/vorotyna/read-roster">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vorotyna&repo=read-roster&title_color=ffffff&text_color=c9cacc&icon_color=FFD966&bg_color=1d1f20" />
+</a>
 <a href="https://github.com/vorotyna/sportami">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vorotyna&repo=sportami&title_color=ffffff&text_color=c9cacc&icon_color=FFD966&bg_color=1d1f20" />
 </a>
