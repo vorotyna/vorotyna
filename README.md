@@ -19,7 +19,7 @@
 
 – 🚴🏼‍♀️ My favourite pastime is weightlifting or cycling
 
-- 🐱 I love cats (very controversial, I know)
+– 🐱 I love cats (very controversial, I know)
 
 ## 👉🏼 Recent Projects :
 <a href="https://github.com/vorotyna/read-roster">
