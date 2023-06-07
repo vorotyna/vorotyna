@@ -3,9 +3,6 @@
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:alisa.vorotyn@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=vorotyna&style=flat-square&color=blue" alt=""/>
 </div>
@@ -14,7 +11,7 @@
 
 
 ## 👩🏻‍💻 About Me :
-– 📍 I am currently working on building a portfolio website and am continuing to develop my skills through Frontend Masters courses
+– 📍 Learn more about me and the projects I have previously built: [http://www.alisavorotyntseva.com](http://www.alisavorotyntseva.com)
 
 – 🎨 I really enjoy the creative and visual aspects of frontend and design work
 
