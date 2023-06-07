@@ -17,7 +17,7 @@
 
 – 🚴🏼‍♀️ My favourite pastime is weightlifting or cycling
 
-– 🎓 I am a Kinesiology graduate, turned web developer
+– 🎓 I am a Kinesiology graduate, turned Web Developer
 
 – 🗣 Fun fact: I speak three languages fluently and am learning two others (almost a polyglot?)
 
