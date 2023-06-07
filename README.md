@@ -19,8 +19,6 @@
 
 – 🎓 I am a Kinesiology graduate, turned Web Developer
 
-– 🗣 Fun fact: I speak three languages fluently and am learning two others (almost a polyglot?)
-
 ## 👉🏼 Recent Projects :
 <a href="https://github.com/vorotyna/read-roster">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vorotyna&repo=read-roster&title_color=ffffff&text_color=c9cacc&icon_color=FFD966&bg_color=1d1f20" />
