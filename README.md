@@ -13,11 +13,13 @@
 ## 👩🏻‍💻 About Me :
 – 📍 Learn more about me and the projects I have previously built: [http://www.alisavorotyntseva.com](http://www.alisavorotyntseva.com)
 
+– 🎓 I am a Kinesiology graduate, turned Web Developer
+
 – 🎨 I really enjoy the creative and visual aspects of frontend and design work
 
 – 🚴🏼‍♀️ My favourite pastime is weightlifting or cycling
 
-– 🎓 I am a Kinesiology graduate, turned Web Developer
+- 🐱 I love cats (very controversial, I know)
 
 ## 👉🏼 Recent Projects :
 <a href="https://github.com/vorotyna/read-roster">
