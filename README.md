@@ -15,7 +15,7 @@
 
 – 🎓 I'm a Kinesiology graduate, turned Digital Marketer
 
-– 🎨 I'm currently building a mobile app that helps people connect and build community through sports: [Sportami](http://www.alisavorotyntseva.com)
+– 🎨 I'm currently building a mobile app that helps people connect and build community through sports
 
 – 🚴🏼‍♀️ My favourite pastimes are cycling, working out, and drinking matcha
 
