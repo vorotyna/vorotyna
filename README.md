@@ -13,13 +13,13 @@
 ## 👩🏻‍💻 About Me :
 – 📍 Learn more about me and the projects I have previously built: [http://www.alisavorotyntseva.com](http://www.alisavorotyntseva.com)
 
-– 🎓 I am a Kinesiology graduate, turned Web Developer
+– 🎓 I'm a Kinesiology graduate, turned Digital Marketer
 
-– 🎨 I really enjoy the creative and visual aspects of frontend and design work
+– 🎨 I'm currently building a mobile app that helps people connect and build community through sports: [Sportami](http://www.alisavorotyntseva.com)
 
-– 🚴🏼‍♀️ My favourite pastime is weightlifting or cycling
+– 🚴🏼‍♀️ My favourite pastimes are cycling, working out, and drinking matcha
 
-– 🐱 I love cats (very controversial, I know)
+– 🐱 I love cats more than dogs (very controversial, I know)
 
 ## 👉🏼 Recent Projects :
 <a href="https://github.com/vorotyna/read-roster">
